@@ -1,4 +1,4 @@
-<?php $linkToCsharpApi = '/map/files/d3_27.cs'; ?>
+<?php $linkToCsharpApi = '/project/c_gen/libriary.cs'; ?>
 <!DOCTYPE html>
 <html>
 	<head>
